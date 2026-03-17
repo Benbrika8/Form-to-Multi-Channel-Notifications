@@ -3,6 +3,11 @@
 [![n8n](https://img.shields.io/badge/n8n-workflow-orange)](https://n8n.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🖼️ Workflow Preview
+
+![Workflow Preview](workflow-preview.svg)
+
+
 A production-ready n8n workflow automation that captures form submissions and instantly distributes them across multiple notification channels: Email, Telegram, and Google Sheets.
 
 ## 🎯 Overview
